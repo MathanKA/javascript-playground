@@ -27,3 +27,5 @@ test(1, null);        // arg1 is 1, arg2 is null
 
 clearProperty('c');  // Removes property 'b' from object
 console.log(object.b); // undefined: Property 'b' was removed, not set to null
+
+console.log("test commit");
