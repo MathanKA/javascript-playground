@@ -29,3 +29,4 @@ clearProperty('c');  // Removes property 'b' from object
 console.log(object.b); // undefined: Property 'b' was removed, not set to null
 
 console.log("test commit");
+console.log("test signed commit");
